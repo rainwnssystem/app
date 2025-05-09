@@ -38,10 +38,6 @@ spec:
       activeService: product
       autoPromotionEnabled: true
       autoPromotionSeconds: 10
-#  syncPolicy:
-#    automated:
-#      prune: true
-#      selfHeal: true
 ---
 apiVersion: v1
 kind: Service
